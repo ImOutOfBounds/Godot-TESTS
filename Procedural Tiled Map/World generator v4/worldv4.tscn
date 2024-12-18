@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=3 uid="uid://day4yrg40rlqk"]
+
+[ext_resource type="Script" path="res://World generator v4/worldv4.gd" id="1_4on1q"]
+[ext_resource type="PackedScene" uid="uid://cwtjjda6wqids" path="res://World generator v4/salas/sala1.tscn" id="2_uu5u1"]
+[ext_resource type="PackedScene" uid="uid://cek81ve7arfk0" path="res://simplexMethod/Player.tscn" id="3_ov24v"]
+
+[node name="Worldv4" type="Node2D"]
+script = ExtResource("1_4on1q")
+sala = ExtResource("2_uu5u1")
+
+[node name="Player" parent="." instance=ExtResource("3_ov24v")]
+z_index = 1
+position = Vector2(64, 32)
