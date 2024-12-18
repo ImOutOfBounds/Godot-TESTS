@@ -23,6 +23,6 @@ func _ready():
 	add_child(salab)
 	
 func _process(delta):
-	
-	print(get_child(1).find_child("Porta1").position)
+	pass
+	#print(get_child(1).find_child("Porta1").position)
 	

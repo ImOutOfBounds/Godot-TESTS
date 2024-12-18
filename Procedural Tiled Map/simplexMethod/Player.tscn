@@ -8,6 +8,7 @@ size = Vector2(110, 116.667)
 
 [node name="Player" type="CharacterBody2D"]
 scale = Vector2(0.3, 0.3)
+collision_layer = 2
 script = ExtResource("1_a4paw")
 
 [node name="Icon" type="Sprite2D" parent="."]

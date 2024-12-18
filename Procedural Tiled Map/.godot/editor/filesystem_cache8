@@ -1,0 +1,35 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1734487077
+icon.svg::CompressedTexture2D::3114848202785470850::1734481450::1734481476::1::::<><>::
+::res://simplexMethod/::1734487058
+camera_2d.gd::GDScript::-1::1734486178::0::1::::<>RefCounted<>::
+Node2D.gd::GDScript::-1::1734481450::0::1::::<>Node2D<>::
+node_2d.tscn::PackedScene::7966169003330858351::1734487057::0::1::::<><>::res://simplexMethod/Node2D.gd<>uid://cepwoq3b6ew2y::::res://simplexMethod/Simple_Tilemap.png<>uid://cek81ve7arfk0::::res://simplexMethod/Player.tscn
+Player.gd::GDScript::-1::1734486839::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::5076291721505928585::1734487058::0::1::::<><>::res://simplexMethod/Player.gd<>uid://bkm4dhuurkyfy::::res://icon.svg
+Simple_Tilemap.png::CompressedTexture2D::5085924066919930422::1734481450::1734481476::1::::<><>::
+::res://world generatiov v2/::1734487057
+RandomLevelGenTileset.png::CompressedTexture2D::4980932561602210475::1734481450::1734481476::1::::<><>::
+walker.gd::GDScript::-1::1734481450::0::1::::Walker<>Node<>::
+world.gd::GDScript::-1::1734481450::0::1::::<>Node2D<>::
+world.tscn::PackedScene::2099945757652150236::1734487057::0::1::::<><>::uid://cc72h4xqkan52::::res://world generatiov v2/RandomLevelGenTileset.png<>res://world generatiov v2/world.gd
+::res://world generator v3/::1734487057
+RandomLevelGenTileset-2.png.png::CompressedTexture2D::6785834015060309207::1734481450::1734481476::1::::<><>::
+walkerv2.gd::GDScript::-1::1734481450::0::1::::WalkerV2<>Node<>::
+worldv2.gd::GDScript::-1::1734481450::0::1::::<>Node2D<>::
+worldv2.tscn::PackedScene::7598328387157005971::1734487057::0::1::::<><>::res://world generator v3/worldv2.gd<>uid://c3xdxvgvk1efn::::res://world generator v3/RandomLevelGenTileset-2.png.png
+::res://World generator v4/::1734487057
+worldv4.gd::GDScript::-1::1734481450::0::1::::<>Node2D<>::
+worldv4.tscn::PackedScene::7210611672538178830::1734487057::0::1::::<><>::res://World generator v4/worldv4.gd<>uid://cwtjjda6wqids::::res://World generator v4/salas/sala1.tscn<>uid://cek81ve7arfk0::::res://simplexMethod/Player.tscn
+::res://World generator v4/salas/::1734481450
+sala1.tscn::PackedScene::6356781788838678744::1734481450::0::1::::<><>::uid://c3xdxvgvk1efn::::res://world generator v3/RandomLevelGenTileset-2.png.png
+::res://World generator v5/::1734487077
+camera_2d.gd::GDScript::-1::1734486748::0::1::::<>Camera2D<>::
+jogador.tscn::PackedScene::8116545064144096161::1734487082::0::1::::<><>::res://World generator v5/player.gd<>uid://bkm4dhuurkyfy::::res://icon.svg
+player.gd::GDScript::-1::1734486904::0::1::::<>CharacterBody2D<>::
+worldv5.gd::GDScript::-1::1734481534::0::1::::<>Node2D<>::
+worldv5.tscn::PackedScene::5592542000892897635::1734487077::0::1::::<><>::res://World generator v4/worldv4.gd<>uid://bcqh78sfc561p::::res://World generator v5/salas/sala1.tscn<>uid://dnvykt64otaf6::::res://World generator v5/jogador.tscn
+::res://World generator v5/salas/::1734487057
+RandomLevelGenTileset-.png.png::CompressedTexture2D::6324034082805812190::1734482791::1734482795::1::::<><>::
+sala1.tscn::PackedScene::2560312340696544047::1734487057::0::1::::<><>::res://World generator v5/salas/sala_1.gd<>uid://cwdn6grepds7o::::res://World generator v5/salas/RandomLevelGenTileset-.png.png
+sala_1.gd::GDScript::-1::1734487055::0::1::::<>Node2D<>::

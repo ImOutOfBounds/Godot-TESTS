@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=3 uid="uid://clxcl5hucyptb"]
+
+[ext_resource type="Script" path="res://World generator v4/worldv4.gd" id="1_dk1il"]
+[ext_resource type="PackedScene" uid="uid://bcqh78sfc561p" path="res://World generator v5/salas/sala1.tscn" id="2_vtrr5"]
+[ext_resource type="PackedScene" uid="uid://dnvykt64otaf6" path="res://World generator v5/jogador.tscn" id="3_wnuw8"]
+
+[node name="Worldv4" type="Node2D"]
+script = ExtResource("1_dk1il")
+sala = ExtResource("2_vtrr5")
+
+[node name="jogador" parent="." instance=ExtResource("3_wnuw8")]
+z_index = 1
+position = Vector2(2, 7)
